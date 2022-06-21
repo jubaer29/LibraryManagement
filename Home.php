@@ -32,21 +32,21 @@
           <ul class="navbar-nav">
   
               <li class="nav-item">
-                  <a href="C:\Users\Jubaer\Desktop\library project\Home.html" class="nav-link active" target="blank">Home</a>
+                  <a href="./Home.php" class="nav-link active" target="blank">Home</a>
               </li>
               
               <li class="nav-item">
-                  <a href="file:///C:/Users/Jubaer/Desktop/library%20project/about.html" class="nav-link active" target="blank">About</a>
+                  <a href="./about.php" class="nav-link active" target="blank">About</a>
                </li>
                
                <li class="nav-item">
-                   <a href="C:\Users\Jubaer\Desktop\library project\books.html" class="nav-link active" target="blank">Books</a>
+                   <a href="./books.php" class="nav-link active" target="blank">Books</a>
                   </li>
                   <li class="nav-item">
-                    <a href="C:\Users\Jubaer\Desktop\library project\location.html" class="nav-link active" target="blank">Location</a>
+                    <a href="./location.php" class="nav-link active" target="blank">Location</a>
                 </li>   
                 <li class="nav-item">
-                  <a href="C:\Users\Jubaer\Desktop\library project\contact.html" class="nav-link active" target="blank">Contact</a>
+                  <a href="./contact.php" class="nav-link active" target="blank">Contact</a>
               </li>
           </ul>
   
@@ -68,10 +68,13 @@
 </div>
 
 <div class="image">
-<img src="../new.png">
+<img src="./pic/new.png">
 </div>
 
-
+</div>
+  <div align="left">
+    <button class="button"><a href="./login.php">Join Now</a></button>
+  </div>
 
 
 

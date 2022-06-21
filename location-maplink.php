@@ -11,7 +11,7 @@
         body
         {
             background-size: cover;
-            background-image: url(../dhaka.jpg);
+            background-image: url(./pic/dhaka.jpg);
             background-attachment: fixed;
         }
     </style>

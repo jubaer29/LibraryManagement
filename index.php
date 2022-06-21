@@ -79,12 +79,12 @@
   </div>
 
   <div class="image">
-    <img src="../new.png">
+    <img src="./pic/new.png">
   </div>
 
   </div>
   <div align="left">
-    <button class="button"><a href="C:\Users\Jubaer\Desktop\library project\login.html">Join Now</a></button>
+    <button class="button"><a href="./login.php">Join Now</a></button>
   </div>
 
 

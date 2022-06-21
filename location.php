@@ -7,8 +7,8 @@
     <title>Location</title>
 </head>
 <frameset cols="30%,70%">
-    <frame src="location-textlink.html" name="frame"></frame>
-    <frame src="location-maplink.html" name="frmae1"></frame>
+    <frame src="location-textlink.php" name="frame"></frame>
+    <frame src="location-maplink.php" name="frmae1"></frame>
 </frameset>
 <body>
     
